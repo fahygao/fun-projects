@@ -11,6 +11,7 @@ def query_word_search(word):
                     FROM slang_long_short
                     WHERE word = ?;
                   """, (word,))  #
+    definitions = cursor.fetchall()
     conn.close()  # Close dbase connections
     return [j for i in definitions for j in i]
 
