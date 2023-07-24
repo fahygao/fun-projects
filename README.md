@@ -39,10 +39,10 @@ Specifically,
 
 #### Data Loading
 
-The transaction data is loaded into the SQLite database using the `Q1.py` script. Before running the API server, execute the following command to load the data:
+The transaction data is loaded into the SQLite database using the `Extract_slang.py` script:
 
 ```
-python Extrac_slang.py
+python Extract_slang.py
 ```
 
 This script reads the `google_form_slangs.csv` and other 3  files, concatenate them into one dataframes (`allSlang_df`), and uploads them to the SQLite database (`ChineseSlangWords.db`).
