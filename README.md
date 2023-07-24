@@ -1,8 +1,5 @@
 # fun-projects
-Here is a collection of projects that I have created. 
 
-
-# Kasheesh_challenge
 This repository includes my startup projects about Chinese Slang words
 - [1. Project 1 - Basic Search ](#1-Project 1---Basic-Search)
 
