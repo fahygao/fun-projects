@@ -2,8 +2,9 @@
 
 This repository includes my startup projects about Chinese Slang words
 - [1. Project 1 - Basic Search](#1-Project 1---Basic-Search)
+- [1. Overview](#1-overview)
 
-
+## 1. Overview 
 ## 1. Project 1 - Basic Search
 
 I provide an easy ETL process to extract the slang words from our existing csv forms to sqlite. 
