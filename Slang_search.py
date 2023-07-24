@@ -1,4 +1,5 @@
 import sqlite3  # Import sqlite to query sql data
+import subprocess
 
 DATABASE = 'ChineseSlangWords.db'  # Initiate database name
 
@@ -17,6 +18,8 @@ def query_word_search(word):
 
 
 if __name__ == "__main__":
+
+    subprocess.run(["python", "Extract_slang.py"])
     while True:
         search = input("你想搜什么梗词？")
         if search:
