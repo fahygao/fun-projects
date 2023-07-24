@@ -2,9 +2,9 @@
 
 This repository includes my startup projects about Chinese Slang words
 - [1. Project 1 - Basic Search](#1-Project 1---Basic-Search)
-- [1. Overview](#1-overview)
+- [1. Project 1 - Basic Search](#1-project-1---basic-search)
 
-## 1. Overview 
+## 1. Project 1 - Basic Search
 hi
 ## 1. Project 1 - Basic Search
 
