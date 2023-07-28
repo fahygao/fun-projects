@@ -2,7 +2,7 @@
 
 This repository includes my startup projects about Chinese Slang words
 - [1. Project 1 - Basic Search](#1-project-1---basic-search)
-- [1. Project 2 - TextRank](#2-project-2---text-rank)
+- [2. Project 2 - TextRank](#2-project-2---text-rank)
 
 ## 1. Project 1 - Basic Search
 
