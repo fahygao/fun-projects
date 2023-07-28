@@ -2,6 +2,7 @@
 
 This repository includes my startup projects about Chinese Slang words
 - [1. Project 1 - Basic Search](#1-project-1---basic-search)
+- [1. Project 2 - TextRank](#2-project-2---text-rank)
 
 ## 1. Project 1 - Basic Search
 
@@ -53,4 +54,16 @@ To start the search engine, run the following command:
 
 ```
 python Slang_search.py
+```
+
+
+## 2. Project 2 - TextRank
+
+This is a short program built upon textrank4zh package and I am still developing new features for analyzing texts.
+
+### 2.1 Run project
+
+```
+python textRank.py
+#python3 textRank.py
 ```

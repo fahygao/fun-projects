@@ -34,8 +34,8 @@ tr4s.analyze(text=text, lower=True, source = 'all_filters')
 
 print()
 print( '全句摘要：' )
-for item in tr4s.get_key_sentences(num=1):
-    print(item.index, item.weight, item.sentence)
+for item in tr4s.get_key_sentences(num=2):
+    print(item.weight, item.sentence)
 
 #
 # for words in tr4w.words_all_filters:
